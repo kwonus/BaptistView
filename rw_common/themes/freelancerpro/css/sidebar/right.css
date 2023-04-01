@@ -1,0 +1,16 @@
+#contentContainer {
+	float: left;
+}
+
+#contentContainer #content {
+	padding-left: 60px;
+	padding-right: 40px;
+}
+
+#sidebarContainer {
+	float: right;
+}
+
+#sidebarContainer #sidebar {
+	padding-right: 60px;
+}

@@ -1,0 +1,54 @@
+body {
+	background-color: #0D1212;
+	color: #B3C0C0;
+}
+
+label {
+	color: #B3C0C0;
+}
+
+a:link, a:visited,
+#navcontainer ul ul a:hover,
+#navcontainer ul ul li a.current,
+#navcontainer ul ul li a.currentAncestor {
+	color: #2FC3F1;
+}
+
+#sidebarContainer .sideHeader {
+	color: #FFFFFF;
+}
+
+.blog-entry-title a:link,
+.blog-archive-month,
+.album-title,
+.movie-page-title,
+.photo-title {
+	color: #2FC3F1;
+}
+
+.blog-archive-headings-wrapper {
+	border-bottom-color: #0D1212;
+}
+
+#pageHeader {
+	background-color: #00E4FF;
+}
+
+#pageHeader h1,
+form {
+	color: #2FC3F1;
+}
+
+#pageHeader h2 {
+	color: #FFFFFF;
+}
+
+.thumbnail-frame a:hover img {
+	border-color: #2FC3F1;
+}
+
+h1 { color: #2FC3F1; }
+h2 { color: #FFFFFF; }
+h3 { color: #FFFFFF; }
+h4 { color: #FFFFFF; }
+h5 { color: #FFFFFF; }
